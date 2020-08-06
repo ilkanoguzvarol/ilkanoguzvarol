@@ -23,24 +23,7 @@ I'm just trying to build useful software and just learning how to do it . Make y
    <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-   <a href="https://aws.amazon.com/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://aws.amazon.com/tr/ecs/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://aws.amazon.com/tr/ecr/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://www.elastic.co">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://www.rabbitmq.com">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://www.jenkins.io/">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
-  </a><br/>
+ <br/>
 <b> ...  and much more tools & technologies but not need to mention here 😄 </b>
 </p>
 
